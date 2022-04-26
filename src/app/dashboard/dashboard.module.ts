@@ -13,7 +13,7 @@ import { DashboardRoutingModule } from './dashboard-routing.module';
     CommonModule,
     MaterialModule,
     DashboardRoutingModule,
-    FlexLayoutModule
+    FlexLayoutModule,
   ]
 })
 export class DashboardModule { }
