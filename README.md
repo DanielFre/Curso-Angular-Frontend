@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
+## Demo
+Demo do projeto acessivel pelo link: https://curso-angular-frontend.vercel.app/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -30,3 +32,27 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Quality of the Code
 
 [![DeepScan grade](https://deepscan.io/api/teams/17496/projects/20848/branches/580305/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=17496&pid=20848&bid=580305)
+
+
+## Tour of Heroes do site Angular
+https://angular.io/tutorial/toh-pt6#s...
+https://angular.io/tutorial/toh-pt6#h...
+https://angular.io/tutorial/toh-pt6#t...
+https://angular.io/tutorial/toh-pt6#g...
+
+## Referências
+https://angular.io/guide/build#proxyi...
+https://rxjs.dev/guide/operators
+https://rxjs.dev/api/operators/tap
+https://github.com/angular/in-memory-...
+https://github.com/typicode/json-server
+https://github.com/peimelo/toh-json-s...
+
+
+## Angular, Material e TypeScript
+https://angular.io
+https://material.angular.io
+https://material.io/components
+https://github.com/angular/flex-layout
+https://www.typescriptlang.org
+

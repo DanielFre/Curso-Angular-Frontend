@@ -76,7 +76,8 @@
               "browserTarget": "curso-angular-frontend:build:production"
             },
             "development": {
-              "browserTarget": "curso-angular-frontend:build:development"
+              "browserTarget": "curso-angular-frontend:build:development",
+              "proxyConfig": "src/proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
