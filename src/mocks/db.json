@@ -6,11 +6,11 @@
     },
     {
       "id": 2,
-      "name": "Ciclop"
+      "name": "Ciclopp"
     },
     {
       "id": 3,
-      "name": "Spyckes"
+      "name": "Spyck"
     },
     {
       "id": 4,
@@ -43,6 +43,10 @@
     {
       "name": "Daniel F",
       "id": 11
+    },
+    {
+      "name": "Frey",
+      "id": 12
     }
   ]
 }
