@@ -13,3 +13,30 @@
   cursor: pointer;
   background-color: whitesmoke;
 }
+
+.mat-column-id {
+  border-right: 1px solid rgb(219, 219, 219);
+  max-width: 60px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.mat-column-name {
+  padding: 10px;
+}
+
+.mat-column-actions {
+  border-left: 1px solid rgb(219, 219, 219);
+  max-width: 60px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-red-color{
+  color: red;
+}
